@@ -8,7 +8,7 @@ const Header = () => {
           <span>WebDev</span> News
         </h1>
         <p className={headerStyles.description}>
-          Stay up tp date with everything
+          Stay up to date with everything
         </p>
       </div>
     </>
